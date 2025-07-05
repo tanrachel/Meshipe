@@ -21,7 +21,7 @@ An intelligent iOS recipe app that helps you discover, save, and organize your f
 ## 📸 Demo
 
 
-![Home Screen Demo](/assets/meship_demo.gif)
+<img src="/assets/meship_demo.gif" alt="Home Screen Demo" width="400" style="display: block; margin: auto;">
 ---
 
 ## 🛠 Built With
