@@ -1,0 +1,52 @@
+# Build products
+build/
+DerivedData/
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# Xcode Workspace & Playgrounds (if not needed)
+*.xcworkspace
+playground.xcworkspace/
+
+# CocoaPods (if used)
+Pods/
+Podfile.lock
+
+# Carthage (if used)
+Carthage/
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Logs and temporary
+*.moved-aside
+*.xcuserdatad
+*.swp
+*.lock
+*.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# App-specific
+Meshipe.xcodeproj/xcuserdata/
+Meshipe.xcodeproj/project.xcworkspace/
+
